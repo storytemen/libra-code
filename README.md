@@ -36,7 +36,7 @@ for all users with the intent:
       Entangled trajectories Hamiltonian, NA-MD with spin-orbit coupling, NBRA workflows, BL-LZ NA-MD tutorials and examples, 
       Libra/DFTB+, Libra/QE, and Libra/ErgoSCF interfaces
 
-  * Mrs. Story Temen (University at Buffalo)
+  * Ms. Story Temen (University at Buffalo)
       Implementation and testing of the HEOM codes
 
   * Dr. Wei Li (Hunan Agricultural University)
